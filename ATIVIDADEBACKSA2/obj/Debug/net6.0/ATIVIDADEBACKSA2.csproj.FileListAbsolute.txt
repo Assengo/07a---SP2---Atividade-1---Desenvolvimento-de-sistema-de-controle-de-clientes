@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\bin\Debug\net6.0\ATIVIDADEBACKSA2.exe
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\bin\Debug\net6.0\ATIVIDADEBACKSA2.deps.json
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\bin\Debug\net6.0\ATIVIDADEBACKSA2.runtimeconfig.json
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\bin\Debug\net6.0\ATIVIDADEBACKSA2.dll
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\bin\Debug\net6.0\ATIVIDADEBACKSA2.pdb
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.AssemblyInfo.cs
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.dll
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\refint\ATIVIDADEBACKSA2.dll
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.pdb
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ATIVIDADEBACKSA2.genruntimeconfig.cache
+C:\Users\bruno\Documents\ATIVIDADES SENAI GIT\07a---SP2---Atividade-1---Desenvolvimento-de-sistema-de-controle-de-clientes\ATIVIDADEBACKSA2\obj\Debug\net6.0\ref\ATIVIDADEBACKSA2.dll
